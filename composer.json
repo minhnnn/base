@@ -1,0 +1,20 @@
+{
+  "name": "minhnnn/base",
+  "description": "the first composer package",
+  "type": "php",
+  "license": "aaa",
+  "authors": [
+    {
+      "name": "minhnnn",
+      "email": "nhatminh.nguyen.28.12@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+    }
+  }
+}
