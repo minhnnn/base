@@ -2,7 +2,7 @@
   "name": "minhnnn/base",
   "description": "the first composer package",
   "type": "php",
-  "license": "",
+  "license": "MIT",
   "authors": [
     {
       "name": "minhnnn",
